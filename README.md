@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🎧 Kaiwei You
 
-<!--
-**KaiweiYou/KaiweiYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Interactive Artist · Sound Designer · Creative Technologist**
 
-Here are some ideas to get you started:
+I create tools and systems where **sound**, **code**, and **interaction** converge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌀 Real-time audio works with **Max/MSP**, **SuperCollider**, **ChucK**
+- 🏎️ Motion-to-sound projects using **UE5 + OSC + Max/MSP**
+- 🎮 Procedural sound design in a self-built **Godot roguelike**
+- 🎛️ Custom synths, sequencers & tuners using **AudioKit** and DSP
+- 🧬 Exploring **AI voice**, **diffusion**, and **generative sound**
+
+---
+
+## ⚙️ Stack
+
+`Max/MSP` · `SuperCollider` · `TouchDesigner` · `AudioKit`  
+`Godot` · `Unreal Engine` · `OSC` · `Ableton Live`  
+`Next.js` · `Three.js` · `WebAudio API`  
+`Diffusion` · `Voice Cloning` · `Colab`
+
+---
+
+> *Code sound. Listen deep.*
