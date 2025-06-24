@@ -8,7 +8,6 @@ I create tools and systems where **sound**, **code**, and **interaction** conver
 - 🏎 Motion-to-sound project with **UE5 + OSC + Max/MSP**
 - 🎮 Procedural sound in a self-built **Godot roguelike**
 - 🎛️ Synths & tuners with **AudioKit**, exploring DSP
-- 🧬 Experiments in **AI voice**, **diffusion**, and generative sound
 
 ---
 
